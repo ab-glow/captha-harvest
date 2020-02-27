@@ -2,7 +2,7 @@
 ```
 "use strict"
 
-const Harvester = require('C:/Users/Lewi/Documents/capthca-store/node_modules/captcha-manager/src/Harvester');
+const Harvester = require('C:/Users/usernamehere/Documents/capthca-store/node_modules/captcha-manager/src/Harvester');
 
 const harvester = new Harvester();
 
