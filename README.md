@@ -22,4 +22,8 @@ for(let i=0; i<2; i++){
 }
 ```
 
+https://www.npmjs.com/package/captcha-manager
+or 
+install ```npm install captcha-manager --save```
+
 command ```node start.js```
